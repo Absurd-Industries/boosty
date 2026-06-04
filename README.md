@@ -72,7 +72,8 @@ Based on the TPS61088 typical application circuit adapted for 5V output from a s
 ## PCB layout [WIP]
 
 <img width="838" height="434" alt="Screenshot 2026-06-04 at 9 24 43 PM" src="https://github.com/user-attachments/assets/6aa52435-ce10-4b55-af9d-f623eec0f4fd" />
-Page 23 of datasheets/TPS61088.PDF
+
+**Page 23 of datasheets/TPS61088.PDF**
 
 - Need to keep SW traces **short and wide** — this is the high-frequency switching node
 - Place input caps (C1–C3) as close to VIN pin as possible
