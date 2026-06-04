@@ -2,6 +2,9 @@
 
 **Need 5V at up to 5A from 3.7V batteries? You need a Boosty!**
 
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/9cdc2b31-873f-4ace-8d87-9e40bb878d82" />
+
+
 A super accessible, pill-shaped boost converter breakout board for anyone who needs a boost. Designed by [Absurd Industries](https://absurdindustries.in) - open power electronics for everyone!
 
 Boosty takes a single-cell lithium battery (3.0–4.2V) and boosts it to a rock-solid 5V rail capable of delivering serious current. Born out of the need to power 200 WS2812B LEDs on the [Supersaber](https://github.com/Absurd-Industries/supersaber) without praying to the thermal gods.
