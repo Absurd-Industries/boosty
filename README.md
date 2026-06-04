@@ -2,7 +2,7 @@
 
 **Need 5V at up to 5A from 3.7V batteries? You need a Boosty!**
 
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/9cdc2b31-873f-4ace-8d87-9e40bb878d82" />
+<img width="1077" height="445" alt="Screenshot 2026-06-04 at 9 20 42 PM" src="https://github.com/user-attachments/assets/0458f440-bd75-407f-a729-06d569e7f5d9" />
 
 
 A super accessible, pill-shaped boost converter breakout board for anyone who needs a boost. Designed by [Absurd Industries](https://absurdindustries.in) - open power electronics for everyone!
