@@ -69,11 +69,12 @@ Based on the TPS61088 typical application circuit adapted for 5V output from a s
 - **NC pins (11, 12)** → GND (thermal dissipation)
 - **Thermal pad** → GND with thermal vias
 
-## PCB layout notes
+## PCB layout [WIP]
 
-Layout matters at these currents. Follow TI's guidelines from the TPS61088 datasheet (SLVSCM8D), Section 10:
+<img width="838" height="434" alt="Screenshot 2026-06-04 at 9 24 43 PM" src="https://github.com/user-attachments/assets/6aa52435-ce10-4b55-af9d-f623eec0f4fd" />
+(Page 23 of datasheets/TPS61088.PDF)
 
-- Keep SW traces **short and wide** — this is the high-frequency switching node
+- Need to keep SW traces **short and wide** — this is the high-frequency switching node
 - Place input caps (C1–C3) as close to VIN pin as possible
 - Place output caps (C4–C6) as close to VOUT pins as possible
 - C7 (0.1µF VIN bypass) should be the **closest** cap to the VIN pin
