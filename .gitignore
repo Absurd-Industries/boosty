@@ -1,1 +1,36 @@
+# --- Editor / OS junk ---
 .history
+.DS_Store
+*~
+*.swp
+
+# --- KiCad backups & autosave ---
+*-backups/
+_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+
+# --- KiCad lock & cache files ---
+*.lck
+~*.lck
+fp-info-cache
+
+# --- KiCad local project state (user-specific UI settings) ---
+*.kicad_prl
+
+# --- Fabrication / generated outputs ---
+*.net
+*.drl
+*.gbr
+*.gbrjob
+*.pos
+gerbers/
+production/
+fab/
+*.zip
+
+# --- Simulation artifacts ---
+*.cir.*
+*.raw
+spice-output/
